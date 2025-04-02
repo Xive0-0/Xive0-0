@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" width="800" src="https://cdn.prod.website-files.com/5e8e816d43060db856099187/63b325e66ab40045d5c55e9b_3-dark-mode-designer-portfolio-webflow-template-1.5x.png" />
+  <img height="500" width="800" src="https://pbs.twimg.com/media/F7sldr0XgAAaqP-?format=jpg&name=4096x4096" />
 </p>
 
 # 👋 Ciao, sono stive bamouni
