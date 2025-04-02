@@ -1,10 +1,10 @@
-<div align="center">
-  <img height="600" src="https://blog.systemi.co.jp/v0-private-beta/cover.png"  />
-</div>
+<p align="center">🚀 Sviluppatore Frontend con esperienza in React, Next.js e TypeScript, appassionato di UX/UI design e sempre alla ricerca di nuove sfide.</p>
 
 ###
 
-<p align="center">🚀 Sviluppatore Frontend con esperienza in React, Next.js e TypeScript, appassionato di UX/UI design e sempre alla ricerca di nuove sfide.</p>
+<div align="center">
+  <img height="300" src="https://blog.systemi.co.jp/v0-private-beta/cover.png"  />
+</div>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -60,5 +60,21 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xive0-0/xive0-0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xive0-0/xive0-0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xive0-0/xive0-0/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
