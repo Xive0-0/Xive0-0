@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" width="800" src="https://pbs.twimg.com/media/F7sldr0XgAAaqP-?format=jpg&name=4096x4096" />
+  <img height="300" width="800" src="https://pbs.twimg.com/media/F7sldr0XgAAaqP-?format=jpg&name=4096x4096" />
 </p>
 
 # 👋 Ciao, sono stive bamouni
