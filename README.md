@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" src="https://mastercaweb.unistra.fr/wp-content/uploads/2023/12/difference-ux-ui-design.png" alt="Banner Profile" />
+  <img height="300" src="https://assets.markup.io/app/uploads/2022/08/81-webflow-plugins-header.jpg" />
 </p>
 
 # 👋 Ciao, sono stive bamouni
