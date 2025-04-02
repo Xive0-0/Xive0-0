@@ -58,8 +58,8 @@
 
 Sono uno sviluppatore frontend appassionato con un occhio di riguardo per l'esperienza utente. Adoro creare interfacce intuitive e visivamente accattivanti che risolvono problemi reali.
 
-- 🔭 Attualmente sto lavorando su [inserisci il tuo progetto corrente]
-- 🌱 Sto approfondendo [ambiti di studio/interesse]
+- 🔭 Attualmente sto lavorando su n8n e zapier
+- 🌱 Sto approfondendo la ux/ui
 - 👯 Sono interessato a collaborare su progetti innovativi
 - 💬 Chiedimi di React, TypeScript o design di interfacce
 
@@ -68,7 +68,7 @@ Sono uno sviluppatore frontend appassionato con un occhio di riguardo per l'espe
 <table>
   <tr>
     <td align="center">
-      <a href="[link al progetto]">
+      <a href="https://github.com/Xive0-0/website">
         <strong>Nome Progetto 1</strong>
         <br />
         <br />
