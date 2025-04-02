@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" src="https://blog.systemi.co.jp/v0-private-beta/cover.png" alt="Banner Profile" />
+  <img height="300" src="https://mastercaweb.unistra.fr/wp-content/uploads/2023/12/difference-ux-ui-design.png" alt="Banner Profile" />
 </p>
 
 # 👋 Ciao, sono stive bamouni
