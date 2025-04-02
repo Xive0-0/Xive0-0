@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" width="800" src="https://cdn.prod.website-files.com/64103d21294ba09537b876c8/65df67c6ae302a606c118763_Webflow%20Vs%20React.png" />
+  <img height="500" width="800" src="https://cdn.prod.website-files.com/5e8e816d43060db856099187/63b325e66ab40045d5c55e9b_3-dark-mode-designer-portfolio-webflow-template-1.5x.png" />
 </p>
 
 # 👋 Ciao, sono stive bamouni
