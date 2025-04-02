@@ -63,36 +63,7 @@ Sono uno sviluppatore frontend appassionato con un occhio di riguardo per l'espe
 - 👯 Sono interessato a collaborare su progetti innovativi
 - 💬 Chiedimi di React, TypeScript o design di interfacce
 
-## 🚀 Progetti in evidenza
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Xive0-0/website">
-        <strong>Nome Progetto 1</strong>
-        <br />
-        <br />
-        Breve descrizione del progetto e delle tecnologie utilizzate.
-      </a>
-    </td>
-    <td align="center">
-      <a href="[link al progetto]">
-        <strong>Nome Progetto 2</strong>
-        <br />
-        <br />
-        Breve descrizione del progetto e delle tecnologie utilizzate.
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 📈 Contributi
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xive0-0/xive0-0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xive0-0/xive0-0/output/pacman-contribution-graph.svg">
-  <img alt="grafico contribuzioni Pacman" src="https://raw.githubusercontent.com/xive0-0/xive0-0/output/pacman-contribution-graph.svg">
-</picture>
 
 ## 📫 Contattami
 
