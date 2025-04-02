@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" src="https://assets.markup.io/app/uploads/2022/08/81-webflow-plugins-header.jpg" />
+  <img height="300" width="300" src="https://assets.markup.io/app/uploads/2022/08/81-webflow-plugins-header.jpg" />
 </p>
 
 # 👋 Ciao, sono stive bamouni
