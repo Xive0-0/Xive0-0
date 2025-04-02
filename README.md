@@ -2,7 +2,7 @@
   <img height="300" src="https://blog.systemi.co.jp/v0-private-beta/cover.png" alt="Banner Profile" />
 </p>
 
-# 👋 Ciao, sono [Il Tuo Nome]
+# 👋 Ciao, sono stive bamouni
 
 <p align="center">🚀 <strong>Sviluppatore Frontend</strong> specializzato in React, Next.js e TypeScript | Appassionato di UX/UI design | In continua evoluzione</p>
 
