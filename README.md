@@ -54,6 +54,13 @@
   <img src="https://streak-stats.demolab.com?user=xive0-0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak" />
 </div>
 
+## 🎲 Certificazione in corso
+<div align="center">
+    <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png" />
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.pngg" />
+</div>
+
+
 ## 🌱 Chi sono
 
 Sono uno sviluppatore frontend appassionato con un occhio di riguardo per l'esperienza utente. Adoro creare interfacce intuitive e visivamente accattivanti che risolvono problemi reali.
