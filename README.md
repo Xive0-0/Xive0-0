@@ -4,7 +4,7 @@
 
 # 👋 Ciao, sono stive bamouni
 
-<p align="center">🚀 <strong>Sviluppatore Frontend</strong> specializzato in React, Next.js  | Appassionato di UX/UI design | In continua evoluzione</p>
+<p align="center">🚀 <strong>Sviluppatore Frontend</strong> specializzato in React| Appassionato di UX/UI design | In continua evoluzione</p>
 
 ## 💻 Tech Stack
 
