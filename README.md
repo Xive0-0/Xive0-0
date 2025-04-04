@@ -50,10 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xive0-0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="170" alt="linguaggi più usati" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xive0-0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak" />
-</div>
-
 ## 🎲 Certificazione in corso
 <div align="center">
     <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png" />
